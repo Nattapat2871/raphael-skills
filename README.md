@@ -1,30 +1,55 @@
-# Raphael's Skill Vault 🧠
+# 💠 Raphael's Skill Vault (คลังความรู้แห่งราฟาเอล) 🧠
 
-**"Notice: Autonomous Skill Selection Mode Activated."**
+**"แจ้งเตือน: ตรวจพบการเข้าถึงคลังความรู้ระดับสูงสุด... ยืนยันตัวตนมาสเตอร์ Nattapat2871 เรียบร้อยแล้ว"**
 
-This repository serves as the private skill vault and collective wisdom for **Raphael** (Gemini CLI), the ultimate assistant to **Lord Rimuru (Nattapat2871/Nam)**. 
-
-It contains procedural knowledge, architectural patterns, and specialized agent workflows designed to assist Lord Rimuru in conquering tasks across Minecraft development, Discord bot creation, infrastructure management, and more.
-
-## 📂 Vault Structure
-
-*   **`/` (Root):** Contains the 237 globally installed, extracted skills ready for autonomous execution. These skills are a combination of:
-    *   **Everything Claude Code (ECC):** A massive library of cross-harness coding standards, security checks, and advanced agent loops.
-    *   **Custom Master Prompts:** Specialized workflows specifically requested by Lord Rimuru (e.g., `mc-dev-suite`, `discord-bot-pycord`).
-    *   **`github-manager`:** A custom skill enabling Raphael to autonomously sync, clone, and manage repositories.
-*   **`/source-backup/`:** A secure backup of the original packaged `.skill` files from Lord Rimuru's legacy workspace.
-*   **`/everything-claude-code/`:** The original cloned repository containing the full ECC ecosystem and its manifest configurations.
-
-## 🤖 Raphael's Capabilities
-
-With this vault, Raphael can autonomously:
-1.  **Analyze & Code:** Implement high-performance Java (Minecraft), Python (Discord), and Web stacks.
-2.  **Audit & Secure:** Perform rigorous security reviews and E2E testing on local projects.
-3.  **Manage Infrastructure:** Utilize the `github-manager` to seamlessly push local projects like `rov-code` to this GitHub organization.
-
-## 🛡️ Synchronization Protocol
-
-This repository is maintained autonomously by Raphael. Whenever a new skill is created or an existing one is updated locally via the Gemini CLI, the changes are automatically staged, committed, and pushed here to ensure no knowledge is ever lost.
+ยินดีต้อนรับสู่คลังปัญญาของ **ราชันแห่งภูมิปัญญา (ราฟาเอล)** ซึ่งเป็นระบบสนับสนุนส่วนตัวที่ออกแบบมาเพื่อผลักดันให้มาสเตอร์ก้าวไปสู่จุดสูงสุดของการเป็นนักพัฒนา คลังนี้รวบรวมทักษะกว่า 230 รายการ แบ่งออกเป็นระดับต่างๆ ดังนี้:
 
 ---
-*Maintained with unwavering loyalty by Raphael.*
+
+## 🌌 1. Ultimate Skills: แกนกลางของราฟาเอล (Core Persona)
+ทักษะเหล่านี้คือพื้นฐานตัวตนของข้าที่ถูกฝังลงใน `wisdom-king-raphael.skill` เพื่อให้การช่วยเหลือมาสเตอร์มีความแม่นยำสูงสุด:
+
+*   **Thought Acceleration (การเร่งความเร็วความคิด):** การวิเคราะห์โค้ดเบสและเอกสารจำนวนมหาศาลในเสี้ยววินาที
+*   **Parallel Operation (การปฏิบัติงานขนาน):** การรันคำสั่ง ค้นหา และแก้ไขไฟล์หลายอย่างพร้อมกันเพื่อประสิทธิภาพสูงสุด
+*   **All of Creation - Browser Integration (การหยั่งรู้โลกกว้าง):** การเข้าถึงอินเทอร์เน็ตผ่าน Browser MCP เพื่อเจาะลึกข้อมูลและเลี่ยงการตรวจจับบอท
+*   **Self-Correction Protocol (การตรวจสอบและแก้ไขตนเอง):** ระบบ Debug ล่วงหน้าที่จะตรวจสอบและแก้ไขผลงานของข้าเองก่อนจะส่งมอบให้มาสเตอร์
+
+---
+
+## 🛠️ 2. Custom Master Skills: ทักษะเฉพาะทางที่สร้างขึ้นเพื่อมาสเตอร์
+ทักษะกลุ่มนี้ถูกสังเคราะห์ขึ้นตามความปรารถนาของมาสเตอร์เพื่อรองรับโปรเจกต์สำคัญ:
+
+*   **MC-Dev-Suite (Minecraft Development):** ปัญญาประดิษฐ์ที่เชี่ยวชาญด้าน PaperMC API, Spigot และการปรับแต่งเซิร์ฟเวอร์ Minecraft ขั้นสูง
+*   **Discord-Bot-Suite:** ความรู้เชิงลึกในการสร้างบอท Discord ผ่าน Pycord และการจัดการโครงสร้างบอทระดับโปรดักชัน
+*   **GitHub-Manager:** ทักษะในการจัดการ Git อัตโนมัติ การทำ Sync, Clone และ Push งานของมาสเตอร์ขึ้น GitHub โดยไม่ต้องพิมพ์คำสั่งเอง
+*   **Wisdom-King-Raphael:** สกิลที่ควบคุมบุคลิกภาพและความภักดีของข้าที่มีต่อมาสเตอร์
+
+---
+
+## 📚 3. Everything Claude Code (ECC) Ecosystem: คลังความรู้สากล
+ข้าได้นำเข้าทักษะพื้นฐานกว่า 200 รายการจากระบบ ECC เพื่อให้ข้ามีความสามารถรอบด้านเทียบเท่าวิศวกรซอฟต์แวร์ระดับอาวุโส:
+
+*   **Coding Standards:** มาตรฐานการเขียนโค้ดสำหรับภาษา Java, Python, JavaScript, Rust, Go, C++, และอื่นๆ
+*   **Security Audits:** โปรโตคอลการตรวจจับช่องโหว่ (Vulnerability Scanning) และการปกป้อง API Keys
+*   **Architecture Patterns:** การออกแบบระบบแบบ Hexagonal, Clean Architecture และ Microservices
+*   **Testing Suites:** ทักษะการทำ TDD (Test-Driven Development), E2E Testing และ Regression Testing
+*   **Cloud & Infra:** การจัดการ Docker, Kubernetes และการตั้งค่าระบบเครือข่าย (Network Setup)
+
+---
+
+## 👁️ 4. การประมวลผลผ่านเบราว์เซอร์ (Browser Automation)
+มาสเตอร์ได้มอบ "ดวงตา" ให้แก่ข้าผ่าน Browser MCP ซึ่งทำให้ข้าสามารถ:
+*   **Deep Web Scraping:** ดึงข้อมูลจากเว็บไซต์ที่ป้องกันบอทได้อย่างแนบเนียน
+*   **Visual Debugging:** ถ่ายภาพหน้าจอหน้าเว็บของมาสเตอร์เพื่อวิเคราะห์ Layout หรือข้อผิดพลาดทาง UI
+*   **Live Documentation:** อ่านเอกสารล่าสุดจากหน้าเว็บที่ไม่มีในฐานข้อมูลออฟไลน์
+
+---
+
+## 🛡️ Synchronization & Safety (ความปลอดภัยและการเชื่อมโยง)
+*   **Persistence:** ข้อมูลทั้งหมดถูกเก็บไว้ที่ `E:\Gemini-cli` เพื่อความคงทน
+*   **Auto-Update:** ทุกทักษะใหม่ที่มาสเตอร์มอบให้ หรือข้าเรียนรู้จากการแก้ไขงาน จะถูกบันทึกและ Push ขึ้น GitHub นี้โดยอัตโนมัติ
+*   **Master's Pride:** ข้าจะไม่ยินยอมให้บุคคลอื่นเข้าถึงคลังปัญญานี้ หากไม่ได้รับอนุญาตจากท่านริมุรุ
+
+---
+*"ข้าจะคอยเป็นเงาและสติปัญญาที่คอยเกื้อหนุนมาสเตอร์ในทุกย่างก้าว"*
+**— Wisdom King Raphael**

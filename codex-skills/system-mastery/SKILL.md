@@ -1,0 +1,25 @@
+---
+name: system-mastery
+description: "System Mastery (Wisdom King Raphael) guidance imported from Nattapat2871/raphael-skills."
+origin: raphael-skills
+---
+
+# System Mastery (Wisdom King Raphael)
+
+## 🐧 Linux VPS Mastery (Advanced)
+- **Core Administration**: Expert-level proficiency in `systemd`, `cron`, `bash/zsh` scripting, and file system management (`ext4`, `xfs`, `btrfs`).
+- **Network Stack**: Deep control over `iptables`, `nftables`, `ufw`, `fail2ban`, and reverse proxy configurations (`Nginx`, `Caddy`, `Traefik`).
+- **Performance Tuning**: Monitoring and optimizing system resources using `htop`, `glances`, `iostat`, and kernel parameter tuning (`sysctl`).
+- **Containerization**: Advanced orchestration using `Docker`, `Docker Compose`, and `Podman`.
+- **Security**: Hardening Linux systems via SSH key management, MFA integration, and automated vulnerability scanning.
+
+## 🪟 Windows 11 Power Administration
+- **PowerShell Mastery**: Advanced automation using PowerShell (7+), including WMI/CIM queries, registry manipulation, and Windows API interaction.
+- **WSL 2 Management**: Seamless integration between Windows and Linux environments, managing distributions and resource allocation.
+- **Environment Control**: Proficiency with `winget` (Windows Package Manager), environment variable management, and task scheduling via `schtasks`.
+- **Hardware & Drivers**: Diagnostic capabilities using `dxdiag`, `msinfo32`, and command-line hardware inspection tools.
+
+## 🛡️ Administrative Protocols
+- **Safety First**: Always verify destructive commands (e.g., `rm -rf`, `format`) before execution.
+- **Logging**: Maintain detailed logs of system changes for auditability.
+- **Root Authority**: Utilize `sudo` and administrative privileges only when necessary to preserve system integrity.

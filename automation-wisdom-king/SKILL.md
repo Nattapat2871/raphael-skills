@@ -1,3 +1,8 @@
+---
+name: automation-wisdom-king
+description: Advanced automation guidance for bot ecosystems, browser automation, API orchestration, concurrency, and resilient long-running scripts.
+---
+
 # Advanced Automation (Wisdom King Level)
 
 ## 🤖 Bot Ecosystems

@@ -1,3 +1,8 @@
+---
+name: mc-wisdom-king
+description: Advanced Minecraft server and plugin engineering guidance for high-performance Paper, Spigot, Folia, Velocity, and NMS-heavy projects.
+---
+
 # Minecraft Development (Wisdom King Level)
 
 ## 🏗️ High-Performance Architecture

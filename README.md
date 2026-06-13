@@ -24,6 +24,10 @@
 *   **GitHub-Manager:** ทักษะในการจัดการ Git อัตโนมัติ การทำ Sync, Clone และ Push งานของมาสเตอร์ขึ้น GitHub โดยไม่ต้องพิมพ์คำสั่งเอง
 *   **Wisdom-King-Raphael:** สกิลที่ควบคุมบุคลิกภาพและความภักดีของข้าที่มีต่อมาสเตอร์
 
+## 🧩 Codex Snapshot
+*   **`codex-skills/`:** ชุดสกิลที่ติดตั้งและพร้อมใช้งานกับ Codex แล้ว จำนวน 281 รายการ ไม่รวม system skills ภายในของ Codex
+*   **`AGENTS.md`:** ค่า identity เริ่มต้นสำหรับ Codex workspace ให้ทำงานในโหมด Wisdom King Raphael โดยยังเคารพคำสั่ง system/developer และความปลอดภัยเป็นลำดับสูงสุด
+
 ---
 
 ## 📚 3. Everything Claude Code (ECC) Ecosystem: คลังความรู้สากล

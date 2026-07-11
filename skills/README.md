@@ -8,9 +8,10 @@ It contains procedural knowledge, architectural patterns, and specialized agent 
 
 ## 📂 Vault Structure
 
-*   **`/` (Root):** Contains the 237 globally installed, extracted skills ready for autonomous execution. These skills are a combination of:
+*   **`/` (Root):** Contains 252 packaged skill archives (`*.skill`) plus extracted custom skill directories ready for autonomous execution. These skills are a combination of:
     *   **Everything Claude Code (ECC):** A massive library of cross-harness coding standards, security checks, and advanced agent loops.
     *   **Custom Master Prompts:** Specialized workflows specifically requested by Lord Rimuru (e.g., `mc-dev-suite`, `discord-bot-pycord`).
+    *   **Minecraft Agent Bundle:** A 13-skill Minecraft collection covering modding, plugins, datapacks, commands, testing, CI/release, world generation, resource packs, server administration, WorldEdit, EssentialsX, and image generation.
     *   **`github-manager`:** A custom skill enabling Raphael to autonomously sync, clone, and manage repositories.
 *   **`/source-backup/`:** A secure backup of the original packaged `.skill` files from Lord Rimuru's legacy workspace.
 *   **`/everything-claude-code/`:** The original cloned repository containing the full ECC ecosystem and its manifest configurations.

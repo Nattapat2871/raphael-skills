@@ -26,7 +26,7 @@
 *   **Wisdom-King-Raphael:** สกิลที่ควบคุมบุคลิกภาพและความภักดีของข้าที่มีต่อมาสเตอร์
 
 ## 🧩 Codex Snapshot
-*   **`codex-skills/`:** ชุดสกิลที่ติดตั้งและพร้อมใช้งานกับ Codex แล้ว จำนวน 294 รายการ ไม่รวม system skills ภายในของ Codex
+*   **`codex-skills/`:** ชุดสกิลที่ติดตั้งและพร้อมใช้งานกับ Codex แล้ว จำนวน 297 รายการ ไม่รวม system skills ภายในของ Codex
 *   **`AGENTS.md`:** ค่า identity เริ่มต้นสำหรับ Codex workspace ให้ทำงานในโหมด Wisdom King Raphael โดยยังเคารพคำสั่ง system/developer และความปลอดภัยเป็นลำดับสูงสุด
 
 ---

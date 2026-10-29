@@ -499,3 +499,7 @@ The validator checks:
 - Vault API: https://github.com/MilkBowl/VaultAPI
 - Bukkit API Javadoc: https://javadoc.io/doc/org.bukkit/bukkit/
 - run-task Gradle plugin: https://github.com/jpenilla/run-task
+
+
+## 🛡️ Server Safety Rule (มาสเตอร์กำหนด)
+Always apply `minecraft-server-safety`: never stop/reload/restart a Minecraft server without the user's permission. After replacing files and configuring, report what changed and that no restart/reload was done, then ask. If PlugMan is installed and reload is allowed, use PlugMan first before a full restart.

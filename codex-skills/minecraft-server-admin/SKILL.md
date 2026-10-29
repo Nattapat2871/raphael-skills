@@ -448,3 +448,7 @@ a Java 25 image and re-check plugin compatibility before changing `VERSION`.
 - https://spark.lucko.me/docs
 - https://geysermc.org/wiki/geyser/
 - https://pterodactyl.io/project/introduction.html
+
+
+## 🛡️ Server Safety Rule (มาสเตอร์กำหนด)
+Always apply `minecraft-server-safety`: never stop/reload/restart a Minecraft server without the user's permission. After replacing files and configuring, report what changed and that no restart/reload was done, then ask. If PlugMan is installed and reload is allowed, use PlugMan first before a full restart.

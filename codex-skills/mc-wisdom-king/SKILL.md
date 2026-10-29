@@ -17,3 +17,7 @@ description: Advanced Minecraft server and plugin engineering guidance for high-
 ## 🚀 Lifecycle Automation
 - **Advanced Gradle/Maven**: Multi-module project structures, automated obfuscation (SpecialSource/Remapper), and multi-platform support (Spigot/Paper/Folia/Velocity).
 - **Automated Testing**: Integration of `MockBukkit` and custom unit test suites for complex game logic.
+
+
+## 🛡️ Server Safety Rule (มาสเตอร์กำหนด)
+Always apply `minecraft-server-safety`: never stop/reload/restart a Minecraft server without the user's permission. After replacing files and configuring, report what changed and that no restart/reload was done, then ask. If PlugMan is installed and reload is allowed, use PlugMan first before a full restart.

@@ -480,3 +480,7 @@ jobs:
 - NeoForge GameTest docs: https://docs.neoforged.net/docs/misc/gametest/
 - Fabric GameTest API: https://wiki.fabricmc.net/tutorial:gametests
 - JUnit 5 user guide: https://junit.org/junit5/docs/current/user-guide/
+
+
+## 🛡️ Server Safety Rule (มาสเตอร์กำหนด)
+Always apply `minecraft-server-safety`: never stop/reload/restart a Minecraft server without the user's permission. After replacing files and configuring, report what changed and that no restart/reload was done, then ask. If PlugMan is installed and reload is allowed, use PlugMan first before a full restart.

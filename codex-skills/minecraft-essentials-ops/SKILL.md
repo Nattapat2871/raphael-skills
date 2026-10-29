@@ -305,3 +305,7 @@ Hardening checklist:
 - https://essentialsx.net/wiki/Configuration-file.html
 - https://essentialsx.net/wiki/Sign-Tutorial.html
 - https://www.spigotmc.org/resources/vault.34315/
+
+
+## 🛡️ Server Safety Rule (มาสเตอร์กำหนด)
+Always apply `minecraft-server-safety`: never stop/reload/restart a Minecraft server without the user's permission. After replacing files and configuring, report what changed and that no restart/reload was done, then ask. If PlugMan is installed and reload is allowed, use PlugMan first before a full restart.

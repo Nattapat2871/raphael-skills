@@ -19,6 +19,7 @@
 | agent-reach | Panniantong/Agent-Reach | skill + CLI |
 | graphify | Graphify-Labs/graphify | skill + CLI |
 | agent-skills | addyosmani/agent-skills | skills |
-| scope | Kreycin/scope | skill |
+| scope | Kreycin/scope | Claude Code plugin (hooks) + skill |
+| claude-token-optimizer (cto) | nadimtuhin/claude-token-optimizer | npm CLI (Claude Code, per project) |
 
 Rule: never edit these in place (updates overwrite them). Put Master's adjustments in `raphael-<topic>` wrapper skills.

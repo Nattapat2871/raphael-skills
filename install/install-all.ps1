@@ -62,7 +62,10 @@ Step 'agent-reach'
 Try-Run 'uv tool install https://github.com/Panniantong/Agent-Reach/releases/latest/download/agent-reach.zip'
 Try-Run 'agent-reach setup'
 Step 'HeroUI v2 docs MCP'
-Try-Run 'claude mcp add heroui-react -s user -- cmd /c npx -y @heroui/react-mcp@latest'
+Try-Run 'claude --% mcp add heroui-react -s user -- cmd /c npx -y @heroui/react-mcp@latest'
+
+Step 'claude-token-optimizer (cto CLI)'
+Try-Run 'npm install -g claude-token-optimizer'
 
 # claude-mem last: --provider claude needs no cmem.ai account, so it will not wait for the browser.
 # If it still opens a browser page, press Ctrl+C: everything above is already installed.

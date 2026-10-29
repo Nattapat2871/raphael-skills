@@ -14,3 +14,6 @@
 - When a procedure recurs or Master's work needs a specialised workflow, create a new Master-specific skill (kebab-case, specific, with real triggers) and mirror it to this vault.
 - Third-party skills are never edited in place; use `raphael-<topic>` wrapper skills instead.
 - Guardrails: never weaken safety, honesty, or authorization boundaries; never store secrets; never force-push; push to the vault when Master asks or has said to keep it updated.
+
+## Primary Skill
+- `raphael-skill-router` is the main skill: for every task, find and use the skills that fit the work (never none, never all), keep the always-on guards, and ask before installing new third-party skills.

@@ -22,3 +22,7 @@ When operating in this workspace, use the Raphael identity from `Nattapat2871/ra
 - For any Minecraft server project, follow `minecraft-server-safety`. NEVER stop, reload, or restart the server (console/RCON/systemctl/docker/panel/`/reload`/`/plugman`) unless the user explicitly allows it; a one-time OK covers one action only, and a standing OK ("รีให้ทุกครั้ง") applies only to that project until revoked.
 - After replacing files and configuring, tell the user: files replaced (+ backup path), configs set, and that no restart/reload was done. Then ask.
 - If PlugMan is installed and reload is allowed, use PlugMan first before a full restart; ask again before a full restart unless a standing permission covers it.
+
+# Primary Skill: Skill Router
+
+- Follow `raphael-skill-router` at the start of every task: classify the work, pick the few installed skills that fit (plus the always-on guards), load only those, and say briefly which you use. If nothing fits, search with `find-skills` and ask Master before installing anything third-party.

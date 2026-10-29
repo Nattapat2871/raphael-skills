@@ -61,9 +61,12 @@ Try-Run 'graphify install --platform codex'
 Step 'agent-reach'
 Try-Run 'uv tool install https://github.com/Panniantong/Agent-Reach/releases/latest/download/agent-reach.zip'
 Try-Run 'agent-reach setup'
-Step 'claude-mem (memory worker + hooks)'
-Try-Run 'npx -y claude-mem install'
 Step 'HeroUI v2 docs MCP'
 Try-Run 'claude mcp add heroui-react -s user -- cmd /c npx -y @heroui/react-mcp@latest'
+
+# claude-mem last: --provider claude needs no cmem.ai account, so it will not wait for the browser.
+# If it still opens a browser page, press Ctrl+C: everything above is already installed.
+Step 'claude-mem (memory worker + hooks)'
+Try-Run 'npx -y claude-mem install --provider claude --no-auto-start'
 
 Write-Host "`nเสร็จแล้ว: restart Claude Code / Codex แล้วลอง /skills หรือ `$find-skills" -ForegroundColor Green

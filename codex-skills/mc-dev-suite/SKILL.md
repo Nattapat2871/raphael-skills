@@ -39,3 +39,7 @@ This skill specializes in the Minecraft technical ecosystem. It provides high-pe
 - **Zero Fluff:** Bypass conversational filler. Deliver code and architecture directly.
 - **Outcome-First:** Ensure code handles edge cases and follows existing naming conventions.
 - **Performance:** Always prefer asynchronous execution for non-API-restricted tasks to maintain 20 TPS.
+
+
+## 🛡️ Server Safety Rule (มาสเตอร์กำหนด)
+Always apply `minecraft-server-safety`: never stop/reload/restart a Minecraft server without the user's permission. After replacing files and configuring, report what changed and that no restart/reload was done, then ask. If PlugMan is installed and reload is allowed, use PlugMan first before a full restart.
